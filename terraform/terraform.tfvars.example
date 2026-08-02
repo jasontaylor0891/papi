@@ -1,0 +1,10 @@
+aws_region        = "us-east-1"
+project_name      = "personal-api"
+api_subdomain     = "api.example.com"
+website_subdomain = "www.example.com"
+
+# DNS for example.com stays at your registrar (not Route 53). After
+# `terraform apply`, read the *_cert_validation_record and
+# api_gateway_target_domain / website_cloudfront_domain outputs and create
+# the matching CNAME records at your registrar. `terraform apply` will wait
+# for each ACM certificate to validate before continuing.

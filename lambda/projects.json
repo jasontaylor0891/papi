@@ -1,0 +1,57 @@
+[
+  {
+    "title": "MalwareAutoAnalyzer",
+    "description": "Automated pipeline to analyze malware samples and provides REST APIs for reporting",
+    "github_url": "https://github.com/jasontaylor0891/MalwareAutoAnalyzer"
+  },
+  {
+    "title": "ThreatPulse",
+    "description": "Continuous CVE Threat Monitoring and Reporting Tool",
+    "github_url": "https://github.com/cybernexuslabs-research/ThreatPulse"
+  },
+  {
+    "title": "tarpit",
+    "description": "A Flask-based web honeypot designed to detect, log, and alert on unauthorized access attempts. Captures credentials, file probes, API scraping, and scanning activity.",
+    "github_url": "https://github.com/cybernexuslabs-research/tarpit"
+  },
+  {
+    "title": "Threat-Analysis-Skills",
+    "description": "Produces a comprehensive, timestamped Markdown threat intelligence report for a given search term by searching RSS feeds, fetching article content, and running AI enrichment.",
+    "github_url": "https://github.com/cybernexuslabs-research/Threat-Analysis-Skills"
+  },
+  {
+    "title": "Trawl",
+    "description": "A powerful, concurrent RSS feed search tool designed for threat intelligence gathering. Search across multiple cybersecurity RSS feeds with advanced boolean logic, date filtering, and flexible output formats.",
+    "github_url": "https://github.com/cybernexuslabs-research/Trawl"
+  },
+  {
+    "title": "Trawl-Web",
+    "description": "Browser-based threat intelligence search across curated RSS feeds. Dark UI, card-based results, flexible search modes and date filtering.",
+    "github_url": "https://github.com/cybernexuslabs-research/Trawl-Web"
+  },
+  {
+    "title": "This-Week-In-Ransomware",
+    "description": "A curated weekly digest of ransomware news, incidents, threat actor activity, newly discovered variants, vulnerabilities exploited in the wild, and defensive resources — tracking the evolving ransomware landscape.",
+    "github_url": "https://github.com/cybernexuslabs-research/This-Week-In-Ransomware"
+  },
+  {
+    "title": "Threat-Actor-Dossier",
+    "description": "Threat Actor Dossier is a structured repository for tracking and analyzing cyber threat actors, their TTPs, and IOCs. Mapped to MITRE ATT&CK, it supports threat hunting, incident response, and intelligence research with standardized, actionable profiles.",
+    "github_url": "https://github.com/cybernexuslabs-research/Threat-Actor-Dossier"
+  },
+  {
+    "title": "freepassphrase.com",
+    "description": "Flask website for freepassphrase.com",
+    "github_url": "https://github.com/jasontaylor0891/freepassphrase.com"
+  },
+  {
+    "title": "siemserver",
+    "description": "A lightweight, flexible SIEM (Security Information and Event Management) server that receives and displays syslog messages over UDP or TCP protocols.",
+    "github_url": "https://github.com/jasontaylor0891/siemserver"
+  },
+  {
+    "title": "passphrase_generator",
+    "description": "Command line passphrase generator",
+    "github_url": "https://github.com/jasontaylor0891/passphrase_generator"
+  }
+]
