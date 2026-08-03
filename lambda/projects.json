@@ -41,7 +41,7 @@
   },
   {
     "title": "freepassphrase.com",
-    "description": "Flask website for freepassphrase.com",
+    "description": "A free, browser-based tool that generates strong, memorable passphrases from the EFF's curated word list — with customizable word count, separators, and capitalization — entirely client-side with no data transmitted or stored.",
     "github_url": "https://github.com/jasontaylor0891/freepassphrase.com"
   },
   {

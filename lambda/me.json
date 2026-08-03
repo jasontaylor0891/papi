@@ -1,12 +1,28 @@
 {
   "name": "Jason Taylor",
-  "title": "",
-  "bio": "",
-  "location": "",
-  "email": "",
+  "location": "North Branford, CT",
+  "email": "me.armhole128@passmail.net",
+  "favorite_quote": "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety. — Benjamin Franklin",
   "links": {
     "website": "https://www.jasontaylor.info",
-    "github": "",
-    "linkedin": ""
-  }
+    "github": {
+      "personal": "https://github.com/jasontaylor0891",
+      "research": "https://github.com/cybernexuslabs-research"
+    },
+    "linkedin": "https://www.linkedin.com/in/jasontaylor0891/"
+  },
+  "facts": [
+    { "key": "coffee_order", "label": "Coffee order", "category": "food_and_drink", "answer": "Latte" },
+    { "key": "dietary_preferences", "label": "Dietary preferences", "category": "food_and_drink", "answer": "Apizza" },
+    { "key": "favorite_beer", "label": "Favorite beer", "category": "food_and_drink", "answer": "NEBCO Fuzzy Baby Ducks, Lawson's Sip of Sunshine" },
+    { "key": "favorite_cocktail", "label": "Favorite cocktail", "category": "food_and_drink", "answer": "Old Fashioned" },
+    { "key": "favorite_movies", "label": "Favorite movies", "category": "media", "answer": "Full Metal Jacket" },
+    { "key": "favorite_tv_shows", "label": "Favorite TV shows", "category": "media", "answer": "Friends" },
+    { "key": "favorite_band", "label": "Favorite Band", "category": "media", "answer": "Nirvana" },
+    { "key": "favorite_song", "label": "Favorite Song", "category": "media", "answer": "Come as You Are" },
+    { "key": "hobbies", "label": "Hobbies", "category": "hobbies", "answer": "home brewing, gardening, Martial arts" },
+    { "key": "side_projects", "label": "Side projects", "category": "hobbies", "answer": "Automating my life with ai, Threat Analysis" },
+    { "key": "what_should_you_ask_me", "label": "What should you ask me?", "category": "conversation_starters", "answer": "What are you working on that's exciting?" },
+    { "key": "best_way_to_reach_me", "label": "Best way to reach me", "category": "conversation_starters", "answer": "Email" }
+  ]
 }
