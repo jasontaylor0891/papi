@@ -36,9 +36,12 @@
       "startDate": "2007-06",
       "endDate": "2020-08",
       "highlights": [
-        "Migrated 1,200 EPM Cloud demo environments to Oracle Cloud Infrastructure (OCI) using Terraform, Ansible, CI/CD pipelines, and GitLab, reducing operational overhead and improving environment reliability at scale.",
-        "Built Python and Bash automation tooling against EPM REST APIs that cut sales-consultant demo preparation time by 50% — covering environment reset, content loading, service management, and health diagnostics.",
-        "Developed Ansible playbooks for OCI-hosted demo fleet management (start/stop, upgrades, maintenance, health checks) and maintained monthly upgrade pipelines for Oracle's EPM Chatbot via GitLab CI/CD."
+        "Migrated 1,200 internally hosted EPM Cloud demo environments to Oracle Cloud Infrastructure (OCI) using Terraform, CI/CD pipelines, custom Ansible playbooks, and GitLab for source control.",
+        "Migrated Bash scripts used for EPM lifecycle management to Ansible playbooks, reducing the number of scripts by 60% and improving EPM Cloud demo environment management.",
+        "Implemented linting, unit testing, and coding standard adherence for all scripts and Ansible playbooks used in OCI, improving code quality and reducing errors.",
+        "Built Python and Bash tools using EPM Automate and EPM REST APIs that cut sales consultants' demo prep work by 50%, including tools to load custom demo content, refresh demo environments to a clean state, and restart services.",
+        "Created Ansible playbooks used by Oracle's demo operations team to manage EPM demo environments in OCI, including tasks to start/stop services, upgrade environments, and perform maintenance and diagnostic health checks.",
+        "Created custom Python scripts to install and maintain monthly upgrades for the EPM Chatbot, installing required files and configuring Oracle's Mobile Hub and Digital Assistant, deployed and maintained via a GitLab CI/CD pipeline."
       ]
     },
     {
@@ -49,7 +52,20 @@
       "endDate": "2007-06",
       "highlights": [
         "Managed build infrastructure for the demo build team; created PowerShell, VBScript, and WSH automation to support sales consultants in demonstrating Hyperion environments and closing software deals.",
+        "Created custom applications and scripts with PowerShell, visual basic script, and Windows Script Host to be used by sales consultants which helped showcase the Hyperion demo environments and sell more software.",
         "Coordinated migration of on-premises demo environments to a third-party hosted model, including VM configuration and a library of demo scenarios for field sales use."
+      ]
+    },
+    {
+      "name": "Canberra Industries",
+      "position": "Software Engineer",
+      "location": "Meriden, CT",
+      "startDate": "2000-03",
+      "endDate": "2004-12",
+      "highlights": [
+        "Developed and tested a custom application to determine the quality of Helium-3 detectors, built in Visual Basic 6 with a rich GUI for data acquisition, quality assurance, and custom reporting.",
+        "Developed, modified, and tested a custom Inline Monitoring System covering data acquisition/setup, reporting, and other utilities, implementing custom algorithms for calibration and sample assay.",
+        "Maintained and enhanced Canberra's flagship Genie 2000 Gamma Ray Spectroscopy Software using C and C++ to ensure stability, performance, and feature continuity."
       ]
     }
   ],
@@ -69,16 +85,12 @@
   ],
   "skills": [
     {
-      "name": "Enterprise Authentication",
-      "keywords": ["OIDC", "SSO", "SAML", "OAuth 2.0"]
+      "name": "Programming languages",
+      "keywords": ["Python", "Bash", "PowerShell", "C#", "C/C++", "JavaScript", "SQL"]
     },
     {
-      "name": "APIs & Debugging",
-      "keywords": ["REST API troubleshooting", "HAR trace analysis", "Error log investigation", "Postman", "Wireshark", "Datadog", "Fiddler", "Process Explorer"]
-    },
-    {
-      "name": "Scripting & Automation",
-      "keywords": ["Python", "Bash", "PowerShell", "JavaScript", "SQL", "GitLab CI/CD", "GitHub Actions", "Terraform", "Ansible"]
+      "name": "Tools & Automation",
+      "keywords": ["Ansible", "Docker", "Terraform", "Git", "GitHub Actions", "GitLab CI/CD"]
     },
     {
       "name": "Cloud & Infrastructure",
@@ -87,6 +99,22 @@
     {
       "name": "AI / LLM",
       "keywords": ["Prompt engineering", "LLMs for support automation and workflow improvement"]
+    },
+    {
+      "name": "APIs & Debugging",
+      "keywords": ["REST API troubleshooting", "HAR trace analysis", "Error log investigation", "Postman", "Wireshark", "Datadog", "Fiddler", "Process Explorer"]
+    },
+    {
+      "name": "Security Software",
+      "keywords": ["Kali Linux", "Metasploit", "Wireshark", "Ghidra", "Cuckoo Sandbox", "CAPE Sandbox", "Any.Run"]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": ["Linux", "macOS", "Microsoft Windows 10/11", "Microsoft Servers"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["Oracle Database 11g-19c", "Microsoft SQL Server", "MySQL"]
     },
     {
       "name": "Support Methodology",
